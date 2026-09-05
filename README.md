@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sushilmali/LeetCode/tree/master/0136-single-number) |
 | [1480-running-sum-of-1d-array](https://github.com/sushilmali/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/sushilmali/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/sushilmali/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sushilmali/LeetCode/tree/master/0344-reverse-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/sushilmali/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
